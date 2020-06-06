@@ -8,5 +8,6 @@
 ## 만든 기간
 > 2020.6~
 ## COLOR
-> ORANGE,YELLOW
+> ![orange](https://user-images.githubusercontent.com/58199479/83949416-9ba69800-a85e-11ea-9c29-609d0e8a9191.PNG) ORANGE, 
+![yellow](https://user-images.githubusercontent.com/58199479/83949417-9c3f2e80-a85e-11ea-8f6a-aa95220b9ef2.PNG) YELLOW
 
